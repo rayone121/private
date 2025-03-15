@@ -1,6 +1,16 @@
 {
-  "name": "Bites",
-  "symbol": "BTS",
-  "description": "Bites Token",
+  "name": "BitesToken",
+  "symbol": "BITES",
+  "description": "The official BITES token on Solana.",
   "image": "https://raw.githubusercontent.com/rayone121/private/refs/heads/main/bites_logo.png"
+  "attributes": [
+    {
+      "trait_type": "Utility",
+      "value": "Governance"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "1,000,000"
+    }
+  ]
 }
